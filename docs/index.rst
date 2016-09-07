@@ -6,7 +6,7 @@
 Welcome to Mozilla Marketing's Website How To
 ==================================
 
-This "How To" is aimed at product mangers who are looking to build websites
+This "How To" is aimed at product managers who are looking to build websites
 or webpages.
 
 Contents:
