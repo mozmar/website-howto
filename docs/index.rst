@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Mozilla Marketing's Website How To
+Welcome to Mozilla Marketing's Website HowTo
 ==================================
 
 This document lists general guidelines for website creation at Mozilla,
